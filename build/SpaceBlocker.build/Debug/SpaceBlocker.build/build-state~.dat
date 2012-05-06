@@ -1,0 +1,200 @@
+TSpaceBlocker
+v7
+r0
+t317072549.009050
+cCheck dependencies
+cProcessInfoPlistFile /Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app/Contents/Info.plist SpaceBlocker-Info.plist
+cCopyStringsFile /Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/charlie/Documents/code/xcode/SpaceBlocker/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/5K/5KVACguSGgm+-kd9jcwJOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpaceBlocker_Prefix-gonwuwoujtbupgcvknttaclqatqw/SpaceBlocker_Prefix.pch.gch SpaceBlocker_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceBlocker.build/Debug/SpaceBlocker.build/Objects-normal/x86_64/main.o /Users/charlie/Documents/code/xcode/SpaceBlocker/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceBlocker.build/Debug/SpaceBlocker.build/Objects-normal/x86_64/SpaceBlockerAppDelegate.o /Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004CAA7404000000000001A384
+t1286239236
+s107396
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
+c000000004A12050C0000000000000475
+t1242694924
+s1141
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004CB3F2FA000000000000A5E0
+t1286861562
+s42464
+
+N/Users/charlie/Documents/code/xcode/SpaceBlocker/English.lproj/InfoPlist.strings
+c000000004D35EC6D000000000000002D
+t1295379565
+s45
+
+N/Users/charlie/Documents/code/xcode/SpaceBlocker/English.lproj/MainMenu.xib
+c000000004D35EC6D000000000002BBA2
+t1295379565
+s179106
+
+N/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.h
+c000000004D35ED210000000000000179
+t1295379745
+s377
+i<Cocoa/Cocoa.h>
+i<ApplicationServices/ApplicationServices.h>
+
+N/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m
+c000000004D35ED2000000000000005E8
+t1295379744
+s1512
+i"SpaceBlockerAppDelegate.h"
+
+N/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlocker_Prefix.pch
+c000000004D35EC6D000000000000009B
+t1295379565
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app
+t2
+s0
+
+N/Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app/Contents/Info.plist
+t1295379745
+s901
+
+N/Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app/Contents/MacOS/SpaceBlocker
+t2
+s0
+
+N/Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app/Contents/PkgInfo
+t1295379745
+s8
+
+N/Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1295379745
+s92
+
+N/Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app/Contents/Resources/English.lproj/MainMenu.nib
+t1295379745
+s34462
+
+N/Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/Objects-normal/x86_64/SpaceBlocker.LinkFileList
+c000000004D35ED210000000000000113
+t1295379745
+s275
+
+N/Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/Objects-normal/x86_64/SpaceBlockerAppDelegate.o
+t2
+s0
+
+N/Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/Objects-normal/x86_64/main.o
+t1295379749
+s5008
+
+N/Users/charlie/Documents/code/xcode/SpaceBlocker/main.m
+c000000004D35EC6D00000000000000FD
+t1295379565
+s253
+i<Cocoa/Cocoa.h>
+
+N/var/folders/5K/5KVACguSGgm+-kd9jcwJOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpaceBlocker_Prefix-gonwuwoujtbupgcvknttaclqatqw/SpaceBlocker_Prefix.pch.gch
+t1295379748
+s54306576
+
+NSpaceBlocker-Info.plist
+c000000004D35EC6D00000000000003EA
+t1295379565
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317072545#317072545#0(0"0(0#1#0"8620896000#0"0#
+
+CCompileC build/SpaceBlocker.build/Debug/SpaceBlocker.build/Objects-normal/x86_64/SpaceBlockerAppDelegate.o /Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s317072548.812435
+e317072548.987054
+r0
+xCompileC
+xbuild/SpaceBlocker.build/Debug/SpaceBlocker.build/Objects-normal/x86_64/SpaceBlockerAppDelegate.o
+x/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m: In function '-[SpaceBlockerAppDelegate applicationDidFinishLaunching:]':
+o/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m:40: error: 'eventTap' undeclared (first use in this function)
+o/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m:40: error: (Each undeclared identifier is reported only once
+o/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m:40: error: for each function it appears in.)
+o/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m:43: error: 'eventMask' undeclared (first use in this function)
+o/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m:45: error: 'oldFlags' undeclared (first use in this function)
+o/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m:47: error: 'runLoopSource' undeclared (first use in this function)
+lSLF07#2@82"Compile /Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m317072548#317072548#0(959"/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m: In function '-[SpaceBlockerAppDelegate applicationDidFinishLaunching:]':/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m:40: error: 'eventTap' undeclared (first use in this function)/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m:40: error: (Each undeclared identifier is reported only once/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m:40: error: for each function it appears in.)/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m:43: error: 'eventMask' undeclared (first use in this function)/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m:45: error: 'oldFlags' undeclared (first use in this function)/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m:47: error: 'runLoopSource' undeclared (first use in this function)4(4@50"'eventTap' undeclared (first use in this function)317072548#149#137#0(6@74"/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m317072544#40#0#40#0#43"'*' undeclared (first use in this function)0(4@51"'eventMask' undeclared (first use in this function)317072548#542#138#0(6@74"/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m317072544#43#0#43#0#43"'*' undeclared (first use in this function)0(4@50"'oldFlags' undeclared (first use in this function)317072548#680#137#0(6@74"/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m317072544#45#0#45#0#43"'*' undeclared (first use in this function)0(4@55"'runLoopSource' undeclared (first use in this function)317072548#817#142#0(6@74"/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m317072544#47#0#47#0#43"'*' undeclared (first use in this function)0(0#0#74"/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m8656835200#1698"    cd /Users/charlie/Documents/code/xcode/SpaceBlocker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/SpaceBlocker-generated-files.hmap -I/Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/SpaceBlocker-own-target-headers.hmap -I/Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/SpaceBlocker-all-target-headers.hmap -iquote /Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/SpaceBlocker-project-headers.hmap -F/Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug -I/Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/include -I/Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/DerivedSources/x86_64 -I/Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/DerivedSources -include /var/folders/5K/5KVACguSGgm+-kd9jcwJOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpaceBlocker_Prefix-gonwuwoujtbupgcvknttaclqatqw/SpaceBlocker_Prefix.pch -c /Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlockerAppDelegate.m -o /Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/Objects-normal/x86_64/SpaceBlockerAppDelegate.o1#
+
+CCompileC build/SpaceBlocker.build/Debug/SpaceBlocker.build/Objects-normal/x86_64/main.o /Users/charlie/Documents/code/xcode/SpaceBlocker/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s317072548.811016
+e317072549.008881
+r1
+xCompileC
+xbuild/SpaceBlocker.build/Debug/SpaceBlocker.build/Objects-normal/x86_64/main.o
+x/Users/charlie/Documents/code/xcode/SpaceBlocker/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/charlie/Documents/code/xcode/SpaceBlocker/main.m317072548#317072549#0(0"0(0#0#55"/Users/charlie/Documents/code/xcode/SpaceBlocker/main.m8618440832#1660"    cd /Users/charlie/Documents/code/xcode/SpaceBlocker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/SpaceBlocker-generated-files.hmap -I/Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/SpaceBlocker-own-target-headers.hmap -I/Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/SpaceBlocker-all-target-headers.hmap -iquote /Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/SpaceBlocker-project-headers.hmap -F/Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug -I/Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/include -I/Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/DerivedSources/x86_64 -I/Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/DerivedSources -include /var/folders/5K/5KVACguSGgm+-kd9jcwJOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpaceBlocker_Prefix-gonwuwoujtbupgcvknttaclqatqw/SpaceBlocker_Prefix.pch -c /Users/charlie/Documents/code/xcode/SpaceBlocker/main.m -o /Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/charlie/Documents/code/xcode/SpaceBlocker/English.lproj/MainMenu.xib
+s317072545.583901
+e317072545.826249
+r1
+xCompileXIB
+x/Users/charlie/Documents/code/xcode/SpaceBlocker/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib317072545#317072545#0(0"0(0#0#75"/Users/charlie/Documents/code/xcode/SpaceBlocker/English.lproj/MainMenu.xib8618324928#399"    cd /Users/charlie/Documents/code/xcode/SpaceBlocker    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app/Contents/Resources/English.lproj/MainMenu.nib /Users/charlie/Documents/code/xcode/SpaceBlocker/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s317072545.582979
+e317072545.881027
+r1
+xCopyStringsFile
+x/Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings317072545#317072545#0(0"0(0#0#80"/Users/charlie/Documents/code/xcode/SpaceBlocker/English.lproj/InfoPlist.strings8622039392#390"    cd /Users/charlie/Documents/code/xcode/SpaceBlocker    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app/Contents/Resources/English.lproj0#
+
+CLd /Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app/Contents/MacOS/SpaceBlocker normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app/Contents/Info.plist SpaceBlocker-Info.plist
+s317072545.579773
+e317072545.582886
+r1
+xProcessInfoPlistFile
+x/Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app/Contents/Info.plist
+xSpaceBlocker-Info.plist
+lSLF07#2@31"Process SpaceBlocker-Info.plist317072545#317072545#0(0"0(0#0#72"/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlocker-Info.plist8631468672#355"    cd /Users/charlie/Documents/code/xcode/SpaceBlocker    builtin-infoPlistUtility SpaceBlocker-Info.plist -genpkginfo /Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/5K/5KVACguSGgm+-kd9jcwJOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpaceBlocker_Prefix-gonwuwoujtbupgcvknttaclqatqw/SpaceBlocker_Prefix.pch.gch SpaceBlocker_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s317072545.881214
+e317072548.810716
+r1
+xProcessPCH
+x/var/folders/5K/5KVACguSGgm+-kd9jcwJOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpaceBlocker_Prefix-gonwuwoujtbupgcvknttaclqatqw/SpaceBlocker_Prefix.pch.gch
+xSpaceBlocker_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile SpaceBlocker_Prefix.pch317072545#317072548#0(0"0(0#0#72"/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlocker_Prefix.pch8643115296#1551"    cd /Users/charlie/Documents/code/xcode/SpaceBlocker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/SpaceBlocker-generated-files.hmap -I/Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/SpaceBlocker-own-target-headers.hmap -I/Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/SpaceBlocker-all-target-headers.hmap -iquote /Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/SpaceBlocker-project-headers.hmap -F/Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug -I/Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/include -I/Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/DerivedSources/x86_64 -I/Users/charlie/Documents/code/xcode/SpaceBlocker/build/SpaceBlocker.build/Debug/SpaceBlocker.build/DerivedSources -c /Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlocker_Prefix.pch -o /var/folders/5K/5KVACguSGgm+-kd9jcwJOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpaceBlocker_Prefix-gonwuwoujtbupgcvknttaclqatqw/SpaceBlocker_Prefix.pch.gch0#
+
+CTouch /Users/charlie/Documents/code/xcode/SpaceBlocker/build/Debug/SpaceBlocker.app
+r0
+

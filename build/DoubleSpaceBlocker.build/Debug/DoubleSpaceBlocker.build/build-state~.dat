@@ -1,0 +1,201 @@
+TDoubleSpaceBlocker
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/Info.plist DoubleSpaceBlocker-Info.plist
+cCopyStringsFile /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/5K/5KVACguSGgm+-kd9jcwJOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoubleSpaceBlocker_Prefix-elyruugjolxonohiahizqippsnme/DoubleSpaceBlocker_Prefix.pch.pth DoubleSpaceBlocker_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/Objects-normal/x86_64/SpaceBlockerAppDelegate.o /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/SpaceBlockerAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/Objects-normal/x86_64/main.o /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/MacOS/DoubleSpaceBlocker normal x86_64
+cTouch /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004EB44FF300000000000000EE
+t1320439795
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004E2F297B000000000001A384
+t1311713659
+s107396
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004CB3F2FA000000000000A5E0
+t1286861562
+s42464
+
+N/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/DoubleSpaceBlocker_Prefix.pch
+c000000004D35EC6D000000000000009B
+t1295379565
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/English.lproj/InfoPlist.strings
+c000000004D35EC6D000000000000002D
+t1295379565
+s45
+
+N/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/English.lproj/MainMenu.xib
+c000000004FA5BAAF00000000000087E2
+t1336261295
+s34786
+
+N/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/SpaceBlockerAppDelegate.m
+c000000004FA5AEEA000000000000090C
+t1336258282
+s2316
+
+N/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app
+t2
+s0
+
+N/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/Info.plist
+t2
+s0
+
+N/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/MacOS/DoubleSpaceBlocker
+t2
+s0
+
+N/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/Objects-normal/x86_64/DoubleSpaceBlocker.LinkFileList
+c000000004FA5BAB70000000000000137
+t1336261303
+s311
+
+N/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/Objects-normal/x86_64/SpaceBlockerAppDelegate.o
+t2
+s0
+
+N/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/main.m
+c000000004D35EC6D00000000000000FD
+t1295379565
+s253
+
+N/var/folders/5K/5KVACguSGgm+-kd9jcwJOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoubleSpaceBlocker_Prefix-elyruugjolxonohiahizqippsnme/DoubleSpaceBlocker_Prefix.pch.pth
+t2
+s0
+
+NDoubleSpaceBlocker-Info.plist
+c000000004D35EC6D00000000000003EA
+t1295379565
+s1002
+
+CBuild AST from /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/SpaceBlockerAppDelegate.m
+r0
+
+CBuild AST from /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3d620437f255b541^a73e3037f255b541^---0#1#0#--18"Check dependencies36"D0B5A85A-506F-4EE0-814C-951A9B7EF39B-
+
+CCompileC build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/Objects-normal/x86_64/SpaceBlockerAppDelegate.o /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/SpaceBlockerAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357954104.039077
+e357954104.117135
+r1
+xCompileC
+xbuild/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/Objects-normal/x86_64/SpaceBlockerAppDelegate.o
+x/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/SpaceBlockerAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/SpaceBlockerAppDelegate.me21f0a38f255b541^dafe1d38f255b541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/SpaceBlockerAppDelegate.m0000000000000000^2649"CompileC build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/Objects-normal/x86_64/SpaceBlockerAppDelegate.o SpaceBlockerAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DoubleSpaceBlocker-generated-files.hmap -I/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DoubleSpaceBlocker-own-target-headers.hmap -I/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DoubleSpaceBlocker-all-target-headers.hmap -iquote /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DoubleSpaceBlocker-project-headers.hmap -I/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/include -I/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DerivedSources/x86_64 -I/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DerivedSources -F/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug -include /var/folders/5K/5KVACguSGgm+-kd9jcwJOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoubleSpaceBlocker_Prefix-elyruugjolxonohiahizqippsnme/DoubleSpaceBlocker_Prefix.pch -MMD -MT dependencies -MF /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/Objects-normal/x86_64/SpaceBlockerAppDelegate.d -c /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/SpaceBlockerAppDelegate.m -o /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/Objects-normal/x86_64/SpaceBlockerAppDelegate.o36"4B6A14F9-89CF-4FF8-963B-D513ED026620-
+
+CCompileC build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/Objects-normal/x86_64/main.o /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357954104.039088
+e357954104.097403
+r1
+xCompileC
+xbuild/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/Objects-normal/x86_64/main.o
+x/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/main.mce180a38f255b541^84f01838f255b541^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/main.m0000000000000000^2554"CompileC build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/Objects-normal/x86_64/main.o main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DoubleSpaceBlocker-generated-files.hmap -I/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DoubleSpaceBlocker-own-target-headers.hmap -I/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DoubleSpaceBlocker-all-target-headers.hmap -iquote /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DoubleSpaceBlocker-project-headers.hmap -I/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/include -I/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DerivedSources/x86_64 -I/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DerivedSources -F/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug -include /var/folders/5K/5KVACguSGgm+-kd9jcwJOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoubleSpaceBlocker_Prefix-elyruugjolxonohiahizqippsnme/DoubleSpaceBlocker_Prefix.pch -MMD -MT dependencies -MF /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/Objects-normal/x86_64/main.d -c /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/main.m -o /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/Objects-normal/x86_64/main.o36"EC3FB0BB-3C83-42F2-9BE4-9D4D79D6A30B-
+
+CCompileXIB /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/English.lproj/MainMenu.xib
+s357954103.200444
+e357954103.235859
+r1
+xCompileXIB
+x/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/English.lproj/MainMenu.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compiling /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/English.lproj/MainMenu.xibff5d3337f255b541^4e623c37f255b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/English.lproj/MainMenu.xib0000000000000000^519"CompileXIB English.lproj/MainMenu.xib    cd /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/Resources/English.lproj/MainMenu.nib /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk36"267A5F23-88EC-4B39-9F73-27FA424A9DBA-
+
+CCopyStringsFile /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s357954103.200078
+e357954103.202678
+r1
+xCopyStringsFile
+x/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.stringsfe463337f255b541^6de33337f255b541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/English.lproj/InfoPlist.strings0000000000000000^444"CopyStringsFile build/Debug/DoubleSpaceBlocker.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"18B3851D-41FC-42B7-BBFB-A3D897C13BA0-
+
+CLd /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/MacOS/DoubleSpaceBlocker normal x86_64
+s357954104.118777
+e357954104.791536
+r1
+xLd
+x/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/MacOS/DoubleSpaceBlocker
+xnormal
+xx86_64
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/MacOS/DoubleSpaceBlocker537a1e38f255b541^7ba3ca38f255b541^---0#0#0#--792"Ld build/Debug/DoubleSpaceBlocker.app/Contents/MacOS/DoubleSpaceBlocker normal x86_64    cd /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug -F/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug -filelist /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/Objects-normal/x86_64/DoubleSpaceBlocker.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework ApplicationServices -o /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/MacOS/DoubleSpaceBlocker36"6FBD2D93-574D-4D9F-AA87-FCDC5D8A2807-
+
+CProcessInfoPlistFile /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/Info.plist DoubleSpaceBlocker-Info.plist
+s357954103.193135
+e357954103.197399
+r1
+xProcessInfoPlistFile
+x/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/Info.plist
+xDoubleSpaceBlocker-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Process DoubleSpaceBlocker-Info.plist0e833137f255b541^5d8b3237f255b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/DoubleSpaceBlocker-Info.plist0000000000000000^497"ProcessInfoPlistFile build/Debug/DoubleSpaceBlocker.app/Contents/Info.plist DoubleSpaceBlocker-Info.plist    cd /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker    builtin-infoPlistUtility DoubleSpaceBlocker-Info.plist -genpkginfo /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app/Contents/Info.plist36"89D1A99F-4E7E-4618-A178-F2F7FF55FF0C-
+
+CProcessPCH /Users/charlie/Library/Developer/Xcode/DerivedData/DoubleSpaceBlocker-crjtaphmpnbpklfmsriwfkuuejzd/Index/PrecompiledHeaders/DoubleSpaceBlocker_Prefix-codanxbangvwvieelrmjxuhorxnx_ast/DoubleSpaceBlocker_Prefix.pch.pth DoubleSpaceBlocker_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/5K/5KVACguSGgm+-kd9jcwJOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoubleSpaceBlocker_Prefix-elyruugjolxonohiahizqippsnme/DoubleSpaceBlocker_Prefix.pch.pth DoubleSpaceBlocker_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357954103.238565
+e357954104.037366
+r1
+xProcessPCH
+x/var/folders/5K/5KVACguSGgm+-kd9jcwJOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoubleSpaceBlocker_Prefix-elyruugjolxonohiahizqippsnme/DoubleSpaceBlocker_Prefix.pch.pth
+xDoubleSpaceBlocker_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile DoubleSpaceBlocker_Prefix.pch1a333d37f255b541^c9920938f255b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/DoubleSpaceBlocker_Prefix.pch0000000000000000^2593"ProcessPCH /var/folders/5K/5KVACguSGgm+-kd9jcwJOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoubleSpaceBlocker_Prefix-elyruugjolxonohiahizqippsnme/DoubleSpaceBlocker_Prefix.pch.pth DoubleSpaceBlocker_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DoubleSpaceBlocker-generated-files.hmap -I/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DoubleSpaceBlocker-own-target-headers.hmap -I/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DoubleSpaceBlocker-all-target-headers.hmap -iquote /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DoubleSpaceBlocker-project-headers.hmap -I/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/include -I/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DerivedSources/x86_64 -I/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/DoubleSpaceBlocker.build/Debug/DoubleSpaceBlocker.build/DerivedSources -F/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug -c /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/DoubleSpaceBlocker_Prefix.pch -o /var/folders/5K/5KVACguSGgm+-kd9jcwJOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoubleSpaceBlocker_Prefix-elyruugjolxonohiahizqippsnme/DoubleSpaceBlocker_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/5K/5KVACguSGgm+-kd9jcwJOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoubleSpaceBlocker_Prefix-elyruugjolxonohiahizqippsnme/DoubleSpaceBlocker_Prefix.pch.d36"6C6D6EA4-3E05-4AB3-ABFB-4A4241CD64C6-
+
+CTouch /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app
+s357954104.793962
+e357954104.801156
+r1
+xTouch
+x/Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Touch /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.appd350cb38f255b541^8b19cd38f255b541^---0#0#0#--215"Touch build/Debug/DoubleSpaceBlocker.app    cd /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker    /usr/bin/touch -c /Users/charlie/Documents/code/xcode/DoubleSpaceBlocker/build/Debug/DoubleSpaceBlocker.app36"D6D26A45-2660-4748-9073-8D8593CCD5C4-
+

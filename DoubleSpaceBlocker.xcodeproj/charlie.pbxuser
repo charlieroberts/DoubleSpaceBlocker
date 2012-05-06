@@ -1,0 +1,212 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1407, 691}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* SpaceBlockerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1407, 895}}";
+			sepNavSelRange = "{300, 76}";
+			sepNavVisRange = "{0, 546}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* SpaceBlockerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1407, 1134}}";
+			sepNavSelRange = "{1942, 165}";
+			sepNavVisRange = "{408, 1720}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = CB1C9DC412E623ED00DE3BCC /* SpaceBlocker */;
+		activeTarget = 8D1107260486CEB800E47090 /* SpaceBlocker */;
+		codeSenseManager = CB1C9DC912E6240B00DE3BCC /* Code sense */;
+		executables = (
+			CB1C9DC412E623ED00DE3BCC /* SpaceBlocker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1229,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1189,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 335134527;
+			PBXWorkspaceStateSaveDate = 335134527;
+		};
+		perUserProjectItems = {
+			CB1C9EB412E62A9200DE3BCC /* PBXTextBookmark */ = CB1C9EB412E62A9200DE3BCC /* PBXTextBookmark */;
+			CB1C9F0E12E632CA00DE3BCC /* PBXTextBookmark */ = CB1C9F0E12E632CA00DE3BCC /* PBXTextBookmark */;
+			CB1C9F0F12E632CA00DE3BCC /* PlistBookmark */ = CB1C9F0F12E632CA00DE3BCC /* PlistBookmark */;
+			CB47939313FC388E00709A78 /* PBXTextBookmark */ = CB47939313FC388E00709A78 /* PBXTextBookmark */;
+			CB47939413FC388E00709A78 /* PBXTextBookmark */ = CB47939413FC388E00709A78 /* PBXTextBookmark */;
+			CB47939513FC388E00709A78 /* PBXTextBookmark */ = CB47939513FC388E00709A78 /* PBXTextBookmark */;
+		};
+		sourceControlManager = CB1C9DC812E6240B00DE3BCC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* SpaceBlocker */ = {
+		activeExec = 0;
+		executables = (
+			CB1C9DC412E623ED00DE3BCC /* SpaceBlocker */,
+		);
+	};
+	CB1C9DC412E623ED00DE3BCC /* SpaceBlocker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SpaceBlocker;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	CB1C9DC812E6240B00DE3BCC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CB1C9DC912E6240B00DE3BCC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CB1C9EB412E62A9200DE3BCC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CB1C9EB512E62A9200DE3BCC /* Cocoa.h */;
+		name = "Cocoa.h: 11";
+		rLen = 0;
+		rLoc = 394;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+	CB1C9EB512E62A9200DE3BCC /* Cocoa.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = Cocoa.h;
+		path = /System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h;
+		sourceTree = "<absolute>";
+	};
+	CB1C9F0E12E632CA00DE3BCC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	CB1C9F0F12E632CA00DE3BCC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SpaceBlocker-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/charlie/Documents/code/xcode/SpaceBlocker/SpaceBlocker-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	CB47939313FC388E00709A78 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* SpaceBlockerAppDelegate.h */;
+		name = "SpaceBlockerAppDelegate.h: 14";
+		rLen = 76;
+		rLoc = 300;
+		rType = 0;
+		vrLen = 546;
+		vrLoc = 0;
+	};
+	CB47939413FC388E00709A78 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SpaceBlockerAppDelegate.m */;
+		name = "SpaceBlockerAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 474;
+		rType = 0;
+		vrLen = 2132;
+		vrLoc = 0;
+	};
+	CB47939513FC388E00709A78 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SpaceBlockerAppDelegate.m */;
+		name = "SpaceBlockerAppDelegate.m: 72";
+		rLen = 165;
+		rLoc = 1942;
+		rType = 0;
+		vrLen = 1720;
+		vrLoc = 408;
+	};
+}
