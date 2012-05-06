@@ -1,0 +1,4 @@
+DoubleSpaceBlocker
+====================
+
+When run, this application blocks all attempts to place two spaces after a period. It is intended for people who, having grown accustomed to creating vast canyons of whitespace after punctuation, are unable to limit themselves to a single functional space. In order for the application to run, you must have "Enable Access For Assistive Devices" checked in the Universal Access preferences, or run the application as root.
